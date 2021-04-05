@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChefStation</string>
+
+    <string name="title_activity_home">ChefStation</string>
+    <string name="navigation_drawer_open">Navigasyonu Aç</string>
+    <string name="navigation_drawer_close">Navigasyonu Kapat</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigasyon Başlığı</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_search">Ara</string>
+
+    <string name="menu_home">Anasayfa</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_food_detail">Yemek Detayı</string>
+    <string name="menu_share">Paylaş</string>
+    <string name="menu_food_list">Yemek Listesi</string>
+    <string name="popular_categories">Popüler Kategoriler</string>
+    <string name="best_deals">En İyi Fiyatlar</string>
+    <string name="menu_category">Kategoriler</string>
+    <string name="size">Boyut</string>
+    <string name="add_on">Eklenti</string>
+    <string name="menu_slideshow">Slayt Gösterisi</string>
+    <string name="menu_cart">Sepet</string>
+    <string name="action_clear_cart">Sepeti Temizle</string>
+    <string name="sign_out">Çıkış</string>
+    <string name="menu_view_orders">Siparişlerim</string>
+    <string name="update_info">Bilgileri Güncelle</string>
+    <string name="menu_news">Haberler</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDjKsnaBRZsxsiOv9v5mgKUUyq8l-RvWV4</string>
+
+</resources>

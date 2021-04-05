@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811093208641",
+    "firebase_url": "https://chef-station-default-rtdb.firebaseio.com",
+    "project_id": "chef-station",
+    "storage_bucket": "chef-station.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811093208641:android:c5428edaba67a27c94a0c0",
+        "android_client_info": {
+          "package_name": "com.example.chefstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811093208641-euggm56909j8h194at003sq4fu344g06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJ9Y9XtaImbY3c4wxuVoO20iY9fpJt44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811093208641-euggm56909j8h194at003sq4fu344g06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
